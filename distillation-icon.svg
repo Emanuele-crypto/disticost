@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sfondo circolare -->
+  <circle cx="32" cy="32" r="30" fill="#005500" />
+  <circle cx="32" cy="32" r="28" fill="#ffffff" fill-opacity="0.1" />
+  
+  <!-- Disegno stilizzato di un distillatore -->
+  <path d="M25,15 L25,22 L20,36 C18,40 18,44 22,46 L42,46 C46,44 46,40 44,36 L39,22 L39,15 Z" 
+        stroke="#ffffff" stroke-width="2" fill="none" />
+  
+  <!-- Gocce stilizzate -->
+  <circle cx="32" cy="50" r="2" fill="#ffffff" />
+  <circle cx="26" cy="43" r="1.5" fill="#ffffff" />
+  <circle cx="38" cy="39" r="1.5" fill="#ffffff" />
+  <circle cx="29" cy="34" r="1" fill="#ffffff" />
+  <circle cx="36" cy="31" r="1" fill="#ffffff" />
+  
+  <!-- Tappo superiore -->
+  <rect x="24" y="12" width="16" height="3" fill="#ffffff" rx="1" />
+  
+  <!-- Base del distillatore -->
+  <rect x="20" y="46" width="24" height="2" fill="#ffffff" rx="1" />
+  <path d="M22,48 L42,48 L40,52 L24,52" fill="#ffffff" />
+</svg>
